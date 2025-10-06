@@ -1,7 +1,5 @@
 # Airbnb-Anomaly-Detection
 
-# Airbnb Trustworthiness & Anomaly Detection System  
-
 A data-driven project that enhances **trust and safety** on Airbnb by identifying suspicious listings through **Machine Learning (ML)** and **Natural Language Processing (NLP)**.  
 Combines **Isolation Forest**, **DBSCAN**, and **Sentiment Analysis** to detect anomalies in pricing, reviews, and availability — producing a composite **Trust Score** for each listing.  
 
