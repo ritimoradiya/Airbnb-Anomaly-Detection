@@ -1,13 +1,11 @@
 # Airbnb-Anomaly-Detection
 
-A data-driven project that enhances **trust and safety** on Airbnb by identifying suspicious listings through **Machine Learning (ML)** and **Natural Language Processing (NLP)**.  
-Combines **Isolation Forest**, **DBSCAN**, and **Sentiment Analysis** to detect anomalies in pricing, reviews, and availability — producing a composite **Trust Score** for each listing.  
+A data-driven project that enhances **trust and safety** on Airbnb by identifying suspicious listings through **Machine Learning (ML)** and **Natural Language Processing (NLP)**. Combines **Isolation Forest**, **DBSCAN**, and **Sentiment Analysis** to detect anomalies in pricing, reviews, and availability — producing a composite **Trust Score** for each listing.  
 
 
 ## Problem Statement  
 
-Airbnb listings often contain misleading information — from fake reviews and manipulated prices to inconsistent availability. These patterns affect guest trust and booking confidence.  
-This project applies **unsupervised learning and sentiment analysis** to detect potential fraud and quantify listing reliability with a **Trust Score (0–1)**.
+Airbnb listings often contain misleading information — from fake reviews and manipulated prices to inconsistent availability. These patterns affect guest trust and booking confidence. This project applies **unsupervised learning and sentiment analysis** to detect potential fraud and quantify listing reliability with a **Trust Score (0–1)**.
 
 
 ## Objective  
